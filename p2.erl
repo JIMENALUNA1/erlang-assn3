@@ -1,4 +1,4 @@
-%% team: Jimena Rivera
+%% team: Jimena Rivera, Grace Odondi, Destiny okonwo
 
 -module(p2).
 -export([main/0]).
