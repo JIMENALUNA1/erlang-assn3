@@ -4,7 +4,7 @@
 ## Team Members
 - Jimena Rivera
 -  Grace Odondi
-- Destiny okonwo
+- Destiny Okonkwo
 
 ## Files
 - p1.erl : Reads one input and performs the required computation once.
